@@ -7,5 +7,5 @@
 - [wasp-lang](https://wasp-lang.dev/)
 
 ## Database
-- [postgres](https://github.com/porsager/postgres) : "faster" postgres client for JavaScript
+- [postgres.js](https://github.com/porsager/postgres) : "faster" postgres client for JavaScript
 - [convex.dev](https://www.convex.dev/) : Typescript first, cloud backend, Firestore alternative.
