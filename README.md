@@ -9,3 +9,6 @@
 ## Database
 - [postgres.js](https://github.com/porsager/postgres) : "faster" postgres client for JavaScript
 - [convex.dev](https://www.convex.dev/) : Typescript first, cloud backend, Firestore alternative.
+
+## LLMs
+- [Ollama](https://github.com/jmorganca/ollama)
