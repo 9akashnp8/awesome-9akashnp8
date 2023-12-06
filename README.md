@@ -2,7 +2,11 @@
 
 ## Newsletters
 - [martinfowler.com](https://martinfowler.com)
-  
+
+## Typescript Related
+- [Styleguide 1](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md)
+- [Styleguide 2](https://mkosir.github.io/typescript-style-guide/)
+
 ## Unique Full Stack Languages/Frameworks
 - [wasp-lang](https://wasp-lang.dev/)
 
