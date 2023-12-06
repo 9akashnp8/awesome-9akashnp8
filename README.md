@@ -1,6 +1,6 @@
 # Collection of Awesome dev links
 
-## Newsletters
+## Dev Blogs & Newsletters
 - [martinfowler.com](https://martinfowler.com)
 
 ## Typescript Related
