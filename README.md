@@ -3,6 +3,9 @@
 ## Dev Blogs & Newsletters
 - [martinfowler.com](https://martinfowler.com)
 
+### Python
+- [Better Developers](https://lerner.co.il/newsletter/)
+
 ## Simply Cool Websites
 - [svg-tutorial.com](https://svg-tutorial.com/)
 - 
