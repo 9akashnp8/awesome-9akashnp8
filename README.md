@@ -6,6 +6,9 @@
 ### Python
 - [Better Developers](https://lerner.co.il/newsletter/)
 
+### Javascript
+- [ui.dev](https://ui.dev/)
+
 ## Simply Cool Websites
 - [svg-tutorial.com](https://svg-tutorial.com/)
 - 
