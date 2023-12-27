@@ -1,4 +1,17 @@
-# Collection of Awesome dev links
+# Awesome 9akashnp8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A list of awesome developer resource I've come across so far.
+
+# Table of contents
+- [Dev Blogs & Newsletters](#dev-blogs--newsletters)
+  - [Python](#python)
+  - [Javascript](#javascript)
+- [Simply Cool Websites](#simply-cool-websites)
+  - [svg-tutorial.com](#--svg-tutorial--com)
+- [Typescript Related](#typescript-related)
+- [Unique Full Stack Languages/Frameworks](#unique-full-stack-languagesframeworks)
+- [Database](#database)
+- [LLMs](#llms)
 
 ## Dev Blogs & Newsletters
 - [martinfowler.com](https://martinfowler.com)
