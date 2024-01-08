@@ -21,6 +21,7 @@ A list of awesome developer resource I've come across so far.
 
 ### Javascript
 - [ui.dev](https://ui.dev/)
+- [overreacted.io](https://overreacted.io/)
 
 ## Simply Cool Websites
 - [svg-tutorial.com](https://svg-tutorial.com/)
