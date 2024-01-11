@@ -18,6 +18,7 @@ A list of awesome developer resource I've come across so far.
 
 ### Python
 - [Better Developers](https://lerner.co.il/newsletter/)
+- [Python Design Patterns](https://python-patterns.guide/)
 
 ### Javascript
 - [ui.dev](https://ui.dev/)
