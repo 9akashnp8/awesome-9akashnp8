@@ -20,6 +20,9 @@ A list of awesome developer resource I've come across so far.
 - [Better Developers](https://lerner.co.il/newsletter/)
 - [Python Design Patterns](https://python-patterns.guide/)
 
+#### Book Recommendations
+- [pydont's](https://mathspp.com/blog/pydonts): Easy, Short, Knowledage Python Tips and Tricks
+
 ### Javascript
 - [ui.dev](https://ui.dev/)
 - [overreacted.io](https://overreacted.io/)
